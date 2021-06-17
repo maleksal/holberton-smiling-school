@@ -1,0 +1,253 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  ul li {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  /* holberton_school-icon family font
+        ============================ */
+  
+  @font-face {
+    font-family: 'holberton_school-icon';
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4');
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4#iefix') format('embedded-opentype'),
+      url('fonts/holberton_school-icon.ttf?sq4eq4') format('truetype'),
+      url('fonts/holberton_school-icon.woff?sq4eq4') format('woff'),
+      url('fonts/holberton_school-icon.svg?sq4eq4#holberton_school-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="holberton_school-icon-"], [class*=" holberton_school-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'holberton_school-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .holberton_school-icon-arrow_1:before {
+    content: "\e900";
+  }
+  .holberton_school-icon-arrow_2:before {
+    content: "\e901";
+  }
+  .holberton_school-icon-arrow_3:before {
+    content: "\e902";
+  }
+  .holberton_school-icon-arrow_4:before {
+    content: "\e903";
+  }
+  .holberton_school-icon-arrow_5:before {
+    content: "\e904";
+  }
+  .faed7a3a73b77beda53ba855c2319c51:before {
+    content: "\e905";
+  }
+  .holberton_school-icon-ic_bag:before {
+    content: "\e906";
+  }
+  .holberton_school-icon-ic_cart:before {
+    content: "\e907";
+  }
+  .holberton_school-icon-ic_facebook:before {
+    content: "\e908";
+  }
+  .holberton_school-icon-ic_hearing:before {
+    content: "\e909";
+  }
+  .holberton_school-icon-ic_instagram:before {
+    content: "\e90a";
+  }
+  .holberton_school-icon-ic_laptop:before {
+    content: "\e90b";
+  }
+  .holberton_school-icon-ic_money:before {
+    content: "\e90c";
+  }
+  .holberton_school-icon-ic_music:before {
+    content: "\e90d";
+  }
+  .holberton_school-icon-ic_sound:before {
+    content: "\e90e";
+  }
+  .holberton_school-icon-ic_twitter:before {
+    content: "\e90f";
+  }
+  .holberton_school-icon-ic_video:before {
+    content: "\e910";
+  }
+  .holberton_school-icon-menu:before {
+    content: "\e911";
+  }
+  .holberton_school-icon-search_1:before {
+    content: "\e912";
+  }
+  .holberton_school-icon-search_2:before {
+    content: "\e913";
+  }
+  .holberton_school-icon-star:before {
+    content: "\e914";
+  }
+
+  .fa5e186626d7528b64c22b639f35f203 {
+    background-image: url(images/pic_1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .f5eda0a74558a342cf659187f06f746f {
+    font-size: 8vw;
+  }
+
+  .f6bd96a45894381d4db57c708d8e05eb {
+    background-color: #C271FF;
+  }
+
+  .f66413e61b726331d7200e89f3ea11d9 {
+    background-color: #C271FF;
+    border: none;
+  }
+
+  .f66413e61b726331d7200e89f3ea11d9:hover,
+  .f66413e61b726331d7200e89f3ea11d9:active {
+    opacity: 0.9;
+  }
+  
+  .f39d8d14024f2ae5c8dc2e07362eba1d {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .fe0e83486a2f66da1cf5d82d1c667482 {
+    color: #C271FF;
+  }
+
+  .f970728376beb137057865c63baa822f {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .f28cedf15c83cc52599898166952f0c6 {
+    height: 60px;
+  }
+
+  .f25cd6ab337fcfa26ec2bc1319661ff1 {
+    color: #C271FF;
+  }
+
+  .f3f99ca3185e02094f4914d9bed7567d {
+    width: 255px;
+    height: 355px;
+  }
+
+  .f1416bd8d060b5d062c6237843676d59 {
+    margin: -110px 0 40px 85px;
+  }
+
+  .f94e9b444693f680000cc68dde2affc8 {
+    font-size: 14px;
+  }
+
+  .f2818d2cca27498bc8cb374d28b09b1e {
+    color: #000000;
+    font-size: 5rem;
+  }
+
+  .f98d8c66892f881622aa8bf1819eb187 {
+    font-size: 18px;
+  }
+
+  .fadd413ae462e88cce19d83cc7ce1dc0 {
+    opacity: 0.35;
+  }
+
+  .f6bc6d70748646bd450916afdffc86b0 {
+    background-image: url(images/pic_2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .f8e063f13a54203013505dd924dff55e {
+    font-size: 60px;
+  }
+
+  .fb28caff1bd3ee51897e4db08fbf0a21 {
+    font-size: 12px;
+  }
+
+  .faee89d45e918c500baa1d3d049cdb78 {
+    font-size: 44px;
+  }
+
+  .f1ee570a80fae087f4c83010b52b2e99 {
+    background-color: #979797;
+  }
+
+  .faed7a3a73b77beda53ba855c2319c51 {
+    font-size: 30px;
+    color: #82D24F;
+  }
+
+  .f551122811a26b11e46fdf71ca1ca8e6 {
+    opacity: 0.50;
+  }
+
+  .f37a36f06f553014b4d5a9a7cdab9676 {
+    background-image: url(images/pic_3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .fff3bfe94120a679b06bdc3209f4552c {
+    font-family: 'Coiny';
+  }
+
+  .f28eec00665260779915447aafab81de {
+    font-size: 32px;
+  }
+
+  .fcd196c9af13bef557d64dd4cc5457c5 {
+    font-size: 22px;
+  }
+
+  .f92eafa8bc6fd12656c5e12b9d668750 {
+    background-color: #d195ff;
+  }
+
+  .f608fd9b1bbe6c4b2b03b2933f8e8367 {
+    width: 100%;
+  }
+
+  .fc7fa7cd67ccd847850e6e5b53d6af86 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+  }
+
+  .f5fe6417922551dd9c27910dad4f2e9d {
+    background-color: #d195ff;
+    font-size: 28px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-top-style: rounded;
+  }
